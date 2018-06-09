@@ -3,8 +3,7 @@ const webpack = require('webpack')
 
 const plugins = [new webpack.optimize.ModuleConcatenationPlugin()]
 
-module.exports = function webpackStuff(env) {
-
+module.exports = function webpackStuff (env) {
   return {
     entry: ['./src/web/index.js'],
     output: {
