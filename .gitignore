@@ -6,3 +6,5 @@
 /node_modules/
 /public/bundle.js
 /khe
+khe.dwarf
+package-lock.json
