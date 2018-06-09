@@ -1,0 +1,6 @@
+/docs/
+/lib/
+/bin/
+/.shards/
+/node_modules/
+/public/bundle.js
