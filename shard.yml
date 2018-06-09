@@ -1,4 +1,4 @@
-name: test
+name: khe
 version: 0.1.0
 
 authors:
@@ -6,7 +6,7 @@ authors:
 
 targets:
   test:
-    main: src/test.cr
+    main: src/khe.cr
 
 dependencies:
   kemal:

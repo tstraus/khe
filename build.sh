@@ -2,7 +2,7 @@
 
 echo "----- building server -----"
 shards install
-crystal build --release ./src/test.cr
+crystal build --release ./src/khe.cr
 
 echo "----- building website -----"
 npm install

@@ -1,7 +1,7 @@
-require "./test/*"
+require "./khe/*"
 require "kemal"
 
-module Test
+module KHE
 
   get "/" do |env|
     env.redirect "index.html"
